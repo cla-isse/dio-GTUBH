@@ -32,3 +32,5 @@ A medida que concluir os módulos, postarei as anotações principais.
 ## Módulo 2 - Fundamentos web com HTML e CSS
 
 [2.2 Fundamentos web com HTML e CSS](/modulo2/curso2.md)
+
+[2.3 Posicionando elementos com Flexbox em CSS](/modulo2/curso3.md)
